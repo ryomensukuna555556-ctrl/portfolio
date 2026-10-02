@@ -57,7 +57,7 @@ const projects = [
       src: "https://i.ibb.co/hxpBw9wq/shop.png", // TODO: PASTE PATH FOR SCREENSHOT 2 HERE
     },
     liveLabel: "Live Render Deployment",
-    liveUrl: "cartcraftflat.onrender.com", // TODO: PASTE LIVE DEMO URL HERE
+    liveUrl: "https://cartcraftflat.onrender.com", // TODO: PASTE LIVE DEMO URL HERE
     githubUrl: "https://github.com/ryomensukuna555556-ctrl/cartcraftflat", // TODO: PASTE GITHUB REPOSITORY URL HERE
   },
 ];
