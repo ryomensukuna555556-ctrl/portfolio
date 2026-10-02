@@ -35,11 +35,11 @@ const projects = [
     description: "A high-performance SaaS Admin Analytics Dashboard built with a flat Next.js and React architecture. Features a responsive vertical navigation panel, reusable stat-tracking widgets with trend indicators, a data transaction table, and a native client-side global Dark/Light mode theme toggle.", // TODO: PLACE YOUR PROJECT 350-CHAR DESCRIPTION TEXT HERE
     screenshot1: {
       label: "Main Overview (Dark Mode)",
-      src: "/dashboarddark.png", // TODO: PASTE PATH FOR SCREENSHOT 1 HERE
+      src: "https://i.ibb.co/3yrd4Qkw/dashboarddark.png", // TODO: PASTE PATH FOR SCREENSHOT 1 HERE
     },
     screenshot2: {
       label: "Clean Interface Variant (Light Mode)",
-      src: "/dashboardlight.png", // TODO: PASTE PATH FOR SCREENSHOT 2 HERE
+      src: "https://i.ibb.co/205NTHN5/dashboardlight.png", // TODO: PASTE PATH FOR SCREENSHOT 2 HERE
     },
     liveLabel: "Live Vercel Demo",
     liveUrl: "https://saas-analytics-dashboard-alpha-seven.vercel.app/", // TODO: PASTE LIVE DEMO URL HERE
@@ -50,11 +50,11 @@ const projects = [
     description: "A premium, full-stack E-Commerce storefront application engineered with a clean flat file architecture configuration. Powered by a high-performance Node.js backend server infrastructure deployed live on the Render cloud ecosystem, this platform delivers sub-second page loads, near-zero framework bloat, and ultra-fluid user interface micro-interactions. Features a fully custom dark aesthetic design layout, an interactive sliding checkout shopping bag drawer handling active item quantities and real-time subtotal tracking arrays, dynamic location-based shipping calculation modules, and high-fidelity product imagery grids optimized across mobile, tablet, and desktop viewports.", 
     screenshot1: {
       label: "Home Page",
-      src: "/homepage.png", // TODO: PASTE PATH FOR SCREENSHOT 1 HERE
+      src: "https://i.ibb.co/C3N5485X/homepage.png", // TODO: PASTE PATH FOR SCREENSHOT 1 HERE
     },
     screenshot2: {
       label: "Shop",
-      src: "/shop.png", // TODO: PASTE PATH FOR SCREENSHOT 2 HERE
+      src: "https://i.ibb.co/hxpBw9wq/shop.png", // TODO: PASTE PATH FOR SCREENSHOT 2 HERE
     },
     liveLabel: "Live Render Deployment",
     liveUrl: "cartcraftflat.onrender.com", // TODO: PASTE LIVE DEMO URL HERE
@@ -230,7 +230,7 @@ export default function Home() {
             through Fiverr.
           </p>
           <a
-            href="#" // TODO: PASTE YOUR FIVERR PROFILE LINK HERE
+            href="https://fiverr.com" // TODO: PASTE YOUR FIVERR PROFILE LINK HERE
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary mt-8 inline-flex items-center justify-center gap-2 rounded-xl px-8 py-4 text-base font-semibold shadow-lg"
