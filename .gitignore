@@ -1,0 +1,15 @@
+# Block the heavy dependencies folder
+node_modules/
+.pnpm-store/
+
+# Block the temporary local Next.js build folder
+.next/
+out/
+
+# Block production build artifacts
+build/
+dist/
+
+# Block local cache files
+.DS_Store
+Thumbs.db

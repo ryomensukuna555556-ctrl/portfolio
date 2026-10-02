@@ -1,0 +1,20 @@
+{
+  "name": "developer-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.6.1",
+    "lucide-react": "latest",
+    "next": "latest",
+    "postcss": "^8.5.28",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^4.3.3"
+  }
+}
